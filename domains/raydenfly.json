@@ -1,1 +1,10 @@
-
+{
+  "description": "my web",
+  "owner": {
+    "username": "raydenfly76",
+    "email": "raydenfly84@gmail.com"
+  },
+  "record": {
+    "CNAME": "raydenfly76.repl.co"
+  }
+}
